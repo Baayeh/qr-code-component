@@ -7,7 +7,7 @@
   font-family: 'Outfit', sans-serif;
 }
 
-main {
+body {
   background-color: hsl(212, 45%, 89%);
   display: flex;
   justify-content: center;
@@ -16,23 +16,23 @@ main {
   height: 100vh;
 }
 
-div.qr-card {
+main.qr-card {
   background-color: #fff;
   padding: 1em;
   border-radius: 1em;
+  max-width: 19em;
 }
 
 div.qr-img img {
   width: 17em;
   border-radius: 1em;
-  margin: 0 auto;
 }
 
 div.card-body * {
   text-align: center;
 }
 
-div.card-body h3.card-title {
+div.card-body h1.card-title {
   margin: 1em 0;
   color: hsl(218, 44%, 22%);
   font-size: 1.35em;
