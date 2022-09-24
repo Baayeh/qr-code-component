@@ -10,8 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -21,13 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.PNG)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR-Code Component](https://baayeh.github.io/qr-code-component/)
 
 ## My process
 
@@ -42,8 +39,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 I learned how to center an element using flexbox
-
-To see how you can add code snippets, see below:
 
 ```html
 <main>
@@ -75,7 +70,7 @@ main {
 
 - Website - [Kwasi Antwi Baayeh](https://baayeh.github.io/portfolio/)
 - Frontend Mentor - [@Baayeh](https://www.frontendmentor.io/profile/Baayeh)
-- Twitter - [@yourusername](https://twitter.com/Cest_Baayeh)
+- Twitter - [@Cest_Baayeh](https://twitter.com/Cest_Baayeh)
 
 
 ## Acknowledgments
