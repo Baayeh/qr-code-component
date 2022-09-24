@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -43,18 +42,18 @@ I learned how to center an element using flexbox
 
 ```html
 <main>
-    <div class="qr-card">
-      <div class="qr-img">
-        <img src="./images/image-qr-code.png" alt="A QR Code Image">
-      </div>
-      <div class="card-body">
-        <h3 class="card-title">Improve your front-end <br > skills by building projects</h3>
-        <p class="card-text">
-          Scan this QR code to visit Frontend <br> Mentor and take your coding skills to <br> the next level
-        </p>
-      </div>
+  <div class="qr-card">
+    <div class="qr-img">
+      <img src="./images/image-qr-code.png" alt="A QR Code Image">
     </div>
-  </main>
+    <div class="card-body">
+      <h3 class="card-title">Improve your front-end <br > skills by building projects</h3>
+      <p class="card-text">
+        Scan this QR code to visit Frontend <br> Mentor and take your coding skills to <br> the next level
+      </p>
+    </div>
+  </div>
+</main>
 ```
 ```css
 main {
